@@ -1,0 +1,10 @@
+{
+  "name": "all-city-janitorial",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx tailwindcss -i ./style.css -o ./dist/output.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
